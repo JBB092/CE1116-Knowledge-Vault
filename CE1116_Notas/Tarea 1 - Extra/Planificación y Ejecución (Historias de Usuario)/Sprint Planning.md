@@ -1,0 +1,1 @@
+Reunión en la que el equipo analiza el Product Backlog, selecciona un objetivo para el ciclo de trabajo y crea el Sprint Backlog detallando cómo alcanzar dicho objetivo.

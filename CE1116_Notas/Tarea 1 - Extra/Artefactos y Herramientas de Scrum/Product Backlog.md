@@ -1,0 +1,1 @@
+Listado priorizado de todos los requerimientos, funcionalidades, historias de usuario y épicas que se desean para el producto. Los elementos en la parte superior son los más refinados y detallados, listos para ser incluidos en el próximo ciclo de trabajo.

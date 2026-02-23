@@ -1,0 +1,1 @@
+Formato para expresar requerimientos desde la perspectiva del usuario, siguiendo la estructura: "Como < Tipo de Usuario >, Quiero < Hacer algo >, Para < Propósito >". Incluye contexto, criterios de aceptación y resultados esperados para guiar el desarrollo.

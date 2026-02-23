@@ -1,0 +1,1 @@
+Técnica colaborativa de estimación utilizada para asignar Story Points a las historias de usuario. Cada miembro del quipo propone una estimación de forma independiente mediante cartas con valores predefinidos, y luego se discuten las diferencias hasta llegar a un consenso. 

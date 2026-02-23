@@ -1,0 +1,1 @@
+Descripciones del comportamiento y las funciones que el sistema debe presentar bajo condiciones específicas. Típicamente están asociados a las entradas y salidas del sistema y lo que el equipo desarrollador debe implementar para que el usuario logre sus objetivos.

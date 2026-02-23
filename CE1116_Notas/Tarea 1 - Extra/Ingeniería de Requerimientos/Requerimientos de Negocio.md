@@ -1,0 +1,1 @@
+Objetivos de alto nivel de la organización que desea construir el producto. Describen la razón de existir del producto y definen de manera tangible y cuantificable cuál es el valor que aporta al negocio.

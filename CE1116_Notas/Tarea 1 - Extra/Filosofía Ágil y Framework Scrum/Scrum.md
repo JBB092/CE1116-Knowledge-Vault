@@ -1,0 +1,1 @@
+Framework o proceso ágil e iterativo diseñado para ofrecer el más alto valor de negocio en el menor tiempo posible. Se basa en equipos autoorganizados que inspeccionan software real de trabajo en ciclos cortos para adaptar y mejorar el producto constantemente.

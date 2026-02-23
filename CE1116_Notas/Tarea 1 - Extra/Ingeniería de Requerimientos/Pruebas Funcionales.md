@@ -1,0 +1,1 @@
+Evaluaciones destinadas a verificar que el sistema cumple con las características, capacidades y seguridad definidas en los requerimientos funcionales. Se enfocan en validar que el software funcione según lo pactado para satisfacer las necesidades del negocio.

@@ -1,0 +1,1 @@
+Rol responsable de definir la visión del producto y representar los intereses del cliente ante el equipo. Es el encargo de gestionar el Product Backlog, priorizar los requerimientos y definir los criterios de aceptación.

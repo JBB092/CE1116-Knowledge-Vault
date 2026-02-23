@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "eddb65e56205d0af",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbbae46786cf0736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a86cd9e190ffc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/Ejemplo Nueva Nota.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejemplo Nueva Nota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b3a368ac31d9e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eeb95b9ffc951fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644eb27b321d0488",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39789bf28b06ec8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "850bd515fde5cd57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "456e6ec8dc9f703a",
+    "type": "split",
+    "children": [
+      {
+        "id": "87fe97899d996a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dc138e45affcf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Inbox/Ejemplo Nueva Nota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ejemplo Nueva Nota"
+            }
+          },
+          {
+            "id": "3663d5860a62fb8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Inbox/Ejemplo Nueva Nota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ejemplo Nueva Nota"
+            }
+          },
+          {
+            "id": "26bf5b7cfe50aab5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "31432f41e3fa6ecb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ca1350f67bdbff9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Inbox/Ejemplo Nueva Nota.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ejemplo Nueva Nota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "74a86cd9e190ffc5",
+  "lastOpenFiles": [
+    "08_Templates/Atomic Template.md",
+    "Untitled.md",
+    "03_Arquitectura y Diseño/Microservicios.md",
+    "02_Requirimientos/Entrevistas.md",
+    "01_Procesos de Desarrollo/Scrum.md",
+    "00_Inbox/Ejemplo Nueva Nota.md"
+  ]
+}

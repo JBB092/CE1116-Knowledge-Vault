@@ -1,0 +1,1 @@
+Conjunto de ítems seleccionados del Product Backlog que el equipo se compromete a completar durante un Sprint determinado. Incluye las tareas específicas identificadas por el equipo para realizar los entregables prometidos.

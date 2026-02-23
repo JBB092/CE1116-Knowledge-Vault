@@ -1,0 +1,1 @@
+Herramienta visual, como un tablero Kanban, utilizada para mostrar el flujo de trabajo y el estado de las tareas de las historias de usuario. Generalmente se divide en columnas como "por hacer" (to do), "en progreso" (in progress) y "hecho" (done).

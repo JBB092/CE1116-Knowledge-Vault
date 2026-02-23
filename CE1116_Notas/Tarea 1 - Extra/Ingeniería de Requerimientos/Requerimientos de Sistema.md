@@ -1,0 +1,1 @@
+Especificaciones detalladas que describen qué debe hacer el sistema para satisfacer las metas del usuario y lograr el comportamiento deseado. Son los requerimientos más numerosos y contienen el mayor nivel de detalle técnico.

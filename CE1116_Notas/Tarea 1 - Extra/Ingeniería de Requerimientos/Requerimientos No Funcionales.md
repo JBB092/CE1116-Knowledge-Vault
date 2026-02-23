@@ -1,0 +1,1 @@
+Propiedades, características o restricciones que el sistema debe poseer, asociadas generalmente a atributos de calidad. Sirven para determinar qué tan bien funciona el sistema en aspectos como rendimiento, fiabilidad, facilidad de uso y soporte.

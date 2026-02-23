@@ -1,0 +1,1 @@
+Mentalidad basada en valores y principios que busca la capacidad de crear y responder al cambio en entornos inciertos y turbulentos. Prioriza el software funcionando sobre la documentación exhaustiva y la colaboración con el cliente sobre la negociación contractual.

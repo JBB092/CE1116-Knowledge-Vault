@@ -1,0 +1,1 @@
+Es una persona, grupo u organización que se encuentra activamente involucrada en el proyecto, o que es afectada por la salida de un proceso. Pueden ser internos o externos al equipo del proyecto y poseen diferentes niveles de autoridad, necesidad y energía que pueden afectar el desarrollo
