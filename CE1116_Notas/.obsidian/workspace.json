@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Taskboard.md",
-                "mode": "source",
-                "source": false
+                "file": "Tarea 1 - Extra/README.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Taskboard"
+              "title": "README"
             }
           }
         ]
@@ -185,19 +185,24 @@
   },
   "active": "c04e92e8f7a06bca",
   "lastOpenFiles": [
+    "Tarea 1 - Extra/Ingeniería de Requerimientos/Alcance del Proyecto.md",
+    "Tarea 1 - Extra/README.md",
+    "Tarea 1 - Extra/Ingeniería de Requerimientos/Criterios de Aceptación.md",
+    "Tarea 1 - Extra/Ingeniería de Requerimientos/Visión del Proyecto.md",
+    "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos No Funcionales.md",
     "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Sprint Backlog.md",
-    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Product Backlog.md",
     "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Definition of Done (DoD).md",
+    "Tarea 1 - Extra/Filosofía Ágil y Framework Scrum/Filosofía Ágil.md",
+    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Taskboard.md",
+    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Product Backlog.md",
     "Tarea 1 - Extra/Estimación y Métricas en Scrum/Velocity.md",
     "Tarea 1 - Extra/Estimación y Métricas en Scrum/Story Points.md",
     "Tarea 1 - Extra/Estimación y Métricas en Scrum/Planning Poker.md",
     "Tarea 1 - Extra/Filosofía Ágil y Framework Scrum/Scrum.md",
-    "Tarea 1 - Extra/Filosofía Ágil y Framework Scrum/Filosofía Ágil.md",
     "Tarea 1 - Extra/Gestión de Partes Interesadas/Stakeholder.md",
     "Tarea 1 - Extra/Gestión de Partes Interesadas/Product Owner.md",
     "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/User Story.md",
     "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Sprint Planning.md",
-    "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos No Funcionales.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos Funcionales.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos de Sistema.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos de Negocio.md",
@@ -205,7 +210,6 @@
     "Tarea 1 - Extra/Assets/functional_testing.PNG",
     "Tarea 1 - Extra/Assets/definition_of_done.PNG",
     "Tarea 1 - Extra/Assets/user_story_format.PNG",
-    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Taskboard.md",
     "Tarea 1 - Extra/Assets/taskboard.PNG",
     "Tarea 1 - Extra/Assets/sprint_backlog.jpg",
     "Tarea 1 - Extra/Assets/Sin confirmar 51692.crdownload",
@@ -223,7 +227,6 @@
     "Tarea 1 - Extra.rar",
     "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)",
     "Tarea 1 - Extra/Artefactos y Herramientas de Scrum",
-    "Tarea 1 - Extra/Untitled.md",
     "Tarea 1 - Extra/Inicio.md",
     "Welcome.md"
   ]
