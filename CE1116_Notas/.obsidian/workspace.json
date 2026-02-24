@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Planning Poker.md",
+                "file": "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Taskboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning Poker"
-            }
-          }
-        ]
-      },
-      {
-        "id": "61c8d8a80ec28697",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6bfe24f5f137a84f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Taskboard"
             }
           }
         ]
@@ -201,32 +185,46 @@
   },
   "active": "c04e92e8f7a06bca",
   "lastOpenFiles": [
-    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Velocity.md",
-    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Planning Poker.md",
-    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Story Points.md",
-    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Sprint Planning.md",
-    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/User Story.md",
-    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Definition of Done (DoD).md",
-    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)",
-    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Taskboard.md",
     "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Sprint Backlog.md",
     "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Product Backlog.md",
+    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Definition of Done (DoD).md",
+    "Tarea 1 - Extra/Estimación y Métricas en Scrum/Velocity.md",
+    "Tarea 1 - Extra/Estimación y Métricas en Scrum/Story Points.md",
+    "Tarea 1 - Extra/Estimación y Métricas en Scrum/Planning Poker.md",
     "Tarea 1 - Extra/Filosofía Ágil y Framework Scrum/Scrum.md",
-    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum",
-    "Tarea 1 - Extra/Untitled.md",
     "Tarea 1 - Extra/Filosofía Ágil y Framework Scrum/Filosofía Ágil.md",
-    "Tarea 1 - Extra/Ingeniería de Requerimientos/Pruebas Funcionales.md",
-    "Tarea 1 - Extra/Filosofía Ágil y Framework Scrum",
+    "Tarea 1 - Extra/Gestión de Partes Interesadas/Stakeholder.md",
+    "Tarea 1 - Extra/Gestión de Partes Interesadas/Product Owner.md",
+    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/User Story.md",
+    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)/Sprint Planning.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos No Funcionales.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos Funcionales.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos de Sistema.md",
     "Tarea 1 - Extra/Ingeniería de Requerimientos/Requerimientos de Negocio.md",
-    "Tarea 1 - Extra/Gestión de Partes Interesadas/Product Owner.md",
-    "Tarea 1 - Extra/Ingeniería de Requerimientos",
-    "Tarea 1 - Extra/Gestión de Partes Interesadas/Stakeholder.md",
+    "Tarea 1 - Extra/Ingeniería de Requerimientos/Pruebas Funcionales.md",
+    "Tarea 1 - Extra/Assets/functional_testing.PNG",
+    "Tarea 1 - Extra/Assets/definition_of_done.PNG",
+    "Tarea 1 - Extra/Assets/user_story_format.PNG",
+    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Taskboard.md",
+    "Tarea 1 - Extra/Assets/taskboard.PNG",
+    "Tarea 1 - Extra/Assets/sprint_backlog.jpg",
+    "Tarea 1 - Extra/Assets/Sin confirmar 51692.crdownload",
+    "Tarea 1 - Extra/Assets/sprint_backlog.PNG",
+    "Tarea 1 - Extra/Assets/product_backlog.jpg",
+    "Tarea 1 - Extra/Assets/Sin confirmar 807216.crdownload",
+    "Tarea 1 - Extra/Assets/sprint_planning_meeting.PNG",
+    "Tarea 1 - Extra/Assets/scrum_framework.jpg",
+    "Tarea 1 - Extra/Assets/Sin confirmar 649914.crdownload",
+    "Tarea 1 - Extra/Assets",
+    "Assets",
+    "Tarea 1 - Extra.zip",
+    "Tarea 1 - Extra/Estimación y Métricas en Scrum/Untitled.md",
+    "Tarea 1 - Extra/Estimación y Métricas en Scrum",
+    "Tarea 1 - Extra.rar",
+    "Tarea 1 - Extra/Planificación y Ejecución (Historias de Usuario)",
+    "Tarea 1 - Extra/Artefactos y Herramientas de Scrum",
+    "Tarea 1 - Extra/Untitled.md",
     "Tarea 1 - Extra/Inicio.md",
-    "Tarea 1 - Extra/Gestión de Partes Interesadas",
-    "Welcome.md",
-    "Tarea 1 - Extra"
+    "Welcome.md"
   ]
 }
