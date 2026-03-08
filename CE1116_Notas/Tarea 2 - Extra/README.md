@@ -2,7 +2,7 @@
 
 ## Diseño y Calidad en Productos Tecnológicos (CE1116)
 
-### Tarea 1 (Puntos Extra)
+### Tarea 2 (Puntos Extra)
 
 ---
 
@@ -27,6 +27,10 @@ Esta bóveda de conocimiento fue creada como un repositorio personal de concepto
 - Framework Scrum  
 - Planificación y ejecución de proyectos  
 - Estimación y métricas  
+- Fundamentos de Inteligencia Artificial  
+- Procesamiento y representación de datos en modelos de lenguaje  
+- Arquitecturas modernas de modelos de IA  
+- Comportamiento y generación de respuestas en modelos de lenguaje  
 
 El objetivo principal de esta bóveda es servir como herramienta de estudio, consulta rápida y referencia académica durante el curso.
 
@@ -41,8 +45,12 @@ La bóveda está organizada por temáticas principales:
 - **Estimación y Métricas en Scrum**
 - **Gestión de Partes Interesadas**
 - **Planificación y Ejecución (Historias de Usuario)**
+- **Fundamentos de Inteligencia Artificial**
+- **Procesamiento y Representación de Datos**
+- **Arquitectura y Mecanismos de Modelos Modernos**
+- **Comportamiento y Salidas del Modelo**
 
-Cada carpeta contiene las notas correspondientes a los conceptos solicitados en la asignación y otros conceptos complementarios.
+Cada carpeta contiene las notas correspondientes a los conceptos solicitados en las asignaciones del curso, incluyendo los conceptos iniciales de ingeniería de software y los conceptos adicionales relacionados con inteligencia artificial y modelos de lenguaje.
 
 ---
 
@@ -60,7 +68,8 @@ Se recomienda utilizar:
 
 ## Observaciones
 
-Todas las definiciones han sido elaboradas en palabras propias del estudiante con el fin de favorecer la comprensión personal de los conceptos.  
+Todas las definiciones han sido elaboradas en palabras propias del estudiante con el fin de favorecer la comprensión personal de los conceptos, tomando como referencia las presentaciones del curso y las lecturas asignadas.
+
 Las imágenes y diagramas incluidos se utilizan únicamente cuando aportan valor visual al entendimiento del concepto.
 
 ---
