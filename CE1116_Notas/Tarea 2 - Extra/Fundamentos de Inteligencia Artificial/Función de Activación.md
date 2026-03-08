@@ -21,8 +21,8 @@ En una red neuronal utilizada para clasificar imágenes, la función de activaci
 ![[activation_function_graph.png]]
 
 ## Diferencia con / No confundir con
-- [[Redes Neuronales]] (la función de activación es un componente dentro de cada neurona de una red neuronal)
-- [[Embeddings]] (los embeddings representan datos como vectores, mientras que las funciones de activación transforman valores dentro de las neuronas)
+- [[Redes Neuronales]]: la función de activación es un componente dentro de cada neurona de una red neuronal.
+- [[Embeddings]]: los embeddings representan datos como vectores, mientras que las funciones de activación transforman valores dentro de las neuronas.
 
 ## Notas
 - Introduce no linealidad en las redes neuronales.
