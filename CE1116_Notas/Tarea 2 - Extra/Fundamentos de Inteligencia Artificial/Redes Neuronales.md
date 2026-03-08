@@ -18,7 +18,7 @@ Funcionan como funciones matemáticas parametrizadas que asignan entradas a sali
 Una red neuronal puede entrenarse para reconocer dígitos escritos a mano. A partir de muchos ejemplos de imágenes, la red aprende a identificar patrones en los píxeles que corresponden a cada número.
 
 ## Imagen / Diagrama
-![[neural_network_layers.png]]
+![[neural_network_layers.jpg]]
 
 ## Diferencia con / No confundir con
 - [[Función de Activación]]: las funciones de activación son componentes internos de las neuronas dentro de una red neuronal.
