@@ -1,0 +1,1 @@
+Tipo de arquitectura de red neuronal profunda que se basa exclusivamente en mecanismos de atención, prescindiendo totalmente de la recurrencia y las convoluciones utilizadas en modelos anteriores. Su diseño permite el procesamiento en paralelo de secuencias completas, lo que mejora la calidad de los resultados y reduce significativamente el tiempo de entrenamiento.

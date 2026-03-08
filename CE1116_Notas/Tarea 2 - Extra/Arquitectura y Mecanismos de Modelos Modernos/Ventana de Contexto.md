@@ -1,0 +1,1 @@
+Cantidad máxima de texto o tokens que un modelo de lenguaje puede procesar y "ver" simultáneamente para generar una respuesta. Define el límite de información (como el historial de una conversación o la extensión de un documento) que el modelo puede mantener en su memoria de trabajo durante una tarea específica.

@@ -1,0 +1,1 @@
+Mapeo de tokens discretos a vectores de números continuos en un espacio multidimensional, permitiendo que las redes neuronales procesen datos no numéricos. Estos vectores capturan el significado semántico de los datos, de modo que elementos con significados similares se ubiquen en posiciones cercanas dentro de dicho espacio vectorial.

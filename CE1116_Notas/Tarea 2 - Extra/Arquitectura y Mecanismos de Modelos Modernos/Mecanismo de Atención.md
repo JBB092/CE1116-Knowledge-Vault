@@ -1,0 +1,1 @@
+Función que permite al modelo identificar y ponderar la importancia relativa de diferentes partes de una secuencia de entrada con respecto a un elemento específico. Este mecanismo posibilita la captura de dependencias de largo alcance y relaciones contextuales globales, sin importar la distancia física entre los tokens en el texto original.

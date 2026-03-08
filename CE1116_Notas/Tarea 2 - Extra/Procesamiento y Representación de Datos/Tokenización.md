@@ -1,0 +1,1 @@
+Proceso de descomponer un texto de entrada en unidades más pequeñas llamadas tokens, que pueden ser palabras individuales, caracteres o fragmentos de palabras. Es el paso inicial necesario para convertir el lenguaje humano en una representación numérica que los modelos de lenguaje puedan procesar de manera eficiente.

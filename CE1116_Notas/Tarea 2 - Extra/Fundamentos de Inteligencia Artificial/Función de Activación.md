@@ -1,0 +1,1 @@
+Función matemática que se aplica a la suma ponderada de las entradas de una neurona para calcular su salida o nivel de "activación". Es un componente crítico que introduce no linealidad en el modelo, permitiendo que la red aprenda y represente relaciones complejas en los datos que no podrían capturarse mediante transformaciones lineales simples.

@@ -9,8 +9,8 @@
 ## Estudiante
 
 - José Bernardo Barquero Bonilla (2023150476)
-- 
-## Profesor 
+
+## Profesor
 
 - Daniel Madriz  Huertas (<daniel.madriz@itcr.ac.cr>)
 

@@ -1,0 +1,1 @@
+Fenómeno en el cual un modelo de lenguaje genera información que parece coherente y gramaticalmente correcta, pero que es fácticamente falsa, carece de sentido o no se basa en los datos de entrenamiento. Ocurre cuando el modelo percibe patrones inexistentes o asociaciones estadísticas incorrectas al intentar predecir el siguiente token.
