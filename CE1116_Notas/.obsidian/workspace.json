@@ -11,10 +11,14 @@
             "id": "69e72948e98f74c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Ventana de Contexto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ventana de Contexto"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -170,34 +174,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "69e72948e98f74c1",
   "lastOpenFiles": [
+    "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Mecanismo de Atención.md",
+    "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Arquitectura Transformer.md",
     "Tarea 2 - Extra/Procesamiento y Representación de Datos/Tokenización.md",
+    "Tarea 2 - Extra/Procesamiento y Representación de Datos/Embeddings.md",
+    "Tarea 2 - Extra/Fundamentos de Inteligencia Artificial/Redes Neuronales.md",
+    "Tarea 2 - Extra/Fundamentos de Inteligencia Artificial/Función de Activación.md",
+    "Tarea 2 - Extra/Comportamiento y Salidas del Modelo/Alucinaciones.md",
+    "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Ventana de Contexto.md",
     "Tarea 2 - Extra/Assets/tokenization_example.png",
     "Tarea 2 - Extra/Assets/Sin confirmar 285774.crdownload",
-    "Tarea 2 - Extra/Procesamiento y Representación de Datos/Embeddings.md",
     "Tarea 2 - Extra/Assets/word_embeddings_space.png",
     "Tarea 2 - Extra/Assets/Sin confirmar 835884.crdownload",
-    "Tarea 2 - Extra/Fundamentos de Inteligencia Artificial/Función de Activación.md",
-    "Tarea 2 - Extra/Fundamentos de Inteligencia Artificial/Redes Neuronales.md",
     "Tarea 2 - Extra/Assets/neural_network_layers.jpg",
     "Tarea 2 - Extra/Assets/Sin confirmar 567057.crdownload",
     "Tarea 2 - Extra/Assets/activation_function_graph.PNG",
-    "Tarea 2 - Extra/Comportamiento y Salidas del Modelo/Alucinaciones.md",
-    "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Ventana de Contexto.md",
-    "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Mecanismo de Atención.md",
     "Tarea 2 - Extra/Assets/attention_mechanism.png",
     "Tarea 2 - Extra/Assets/Sin confirmar 360483.crdownload",
-    "Tarea 2 - Extra/Arquitectura y Mecanismos de Modelos Modernos/Arquitectura Transformer.md",
     "Tarea 2 - Extra/Assets/transformer_architecture.png",
     "Tarea 2 - Extra/Assets/Sin confirmar 651874.crdownload",
     "Tarea 1 - Extra/Artefactos y Herramientas de Scrum/Definition of Done (DoD).md",
